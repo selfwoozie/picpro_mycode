@@ -12,6 +12,8 @@ Projeto desenvolvido para o evento PicPro ministrado pelos instrutores da Kenzie
 1. [Aula 1: Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-dffdc96f6a3f4db887713163d69fb756)
 
 2. [Aula 2: Introdução ao CSS e estilização do projeto](https://kenzieacademybr.notion.site/Checkpoint-b605faa196074f558ba5ef9a91d38919)
+3. [Aula 3: Introdução ao JS](https://kenzieacademybr.notion.site/Checkpoint-db6f7863c5194db48feffa58c6d22f42)
+
 
 ## O projeto
 
@@ -32,7 +34,7 @@ Projeto desenvolvido para o evento PicPro ministrado pelos instrutores da Kenzie
 
 ### Cores
 
-- Verde principal: #4a8864;
+- Verde principal: #228664;
 - Verde principal escuro: #1F6F54;
 - Branco com transparência(borda cabeçalho): rgba(255, 255, 255, 0.4);
 - Branco: #fff;
@@ -52,6 +54,10 @@ Projeto desenvolvido para o evento PicPro ministrado pelos instrutores da Kenzie
 - [PicPro Pix](./assets/img/layout-pix.png);
 - [PicPro Boleto](./assets/img/layout-boleto.png);
 - [PicPro Cobrar](./assets/img/layout-cobrar.png);
+
+## Figma
+
+- [Layout - Figma](https://www.figma.com/file/RYHPs4ndUnTv2qAlXsES2c/Projeto_PicPay_2022-02?node-id=469%3A914);
 
 ## Referências
 
